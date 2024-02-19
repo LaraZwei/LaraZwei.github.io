@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "90031969e714ac3ea561f2adf7d05e40",
-"assets/AssetManifest.bin.json": "70b42c72cc2398fed5de6ee6aa6551fe",
-"assets/AssetManifest.json": "0de4ad68bc21aa1d1753a679e2b4fcc2",
+const RESOURCES = {"assets/AssetManifest.bin": "2530e9d99150c9c81ca16ecc5318361a",
+"assets/AssetManifest.bin.json": "50b939e7d60e92ccadfb039305be84b4",
+"assets/AssetManifest.json": "e6e5f15f61e5780e9c3cc4bfc64c3e60",
+"assets/assets/images/done.png": "04eeb614446eb4d42786a2afbfb2410c",
 "assets/assets/images/hard/ballon.png": "0a98afa5cf52615df77d907742b15e70",
 "assets/assets/images/hard/fahrrad.png": "e3862b2a6e661a4762d6a6b75d518340",
 "assets/assets/images/hard/fuchs.png": "f0ab4637045879268faa19292054f7a2",
@@ -64,9 +65,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "90031969e714ac3ea561f2adf7d05e40
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b902749a5814cdf68247642e51dd0f67",
-"/": "b902749a5814cdf68247642e51dd0f67",
-"main.dart.js": "c5778c09d5f495791df75cfac9b93681",
+"index.html": "35c18d347a7884c7c196906bf6070543",
+"/": "35c18d347a7884c7c196906bf6070543",
+"main.dart.js": "47fd17813d21eec91f78cb301123df53",
 "manifest.json": "19913adab3f1b95d4aa86584651108f7",
 "version.json": "5bbb4289c32d4ac505c373541db49109"};
 // The application shell files that are downloaded before a service worker can
