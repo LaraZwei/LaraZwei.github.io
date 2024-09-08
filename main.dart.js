@@ -84408,7 +84408,8 @@ return A.lu(A.b([p,s,A.he(A.aD6(r,r,q,r),30,r)],o),B.aG,B.dZ,B.bF)},
 $S:504}
 A.ahH.prototype={
 $0(){var s=this.a,r=B.b.Th(s.d,new A.ahE())
-if(r===-1)return;++s.at
+if(r===-1)return
+s.z=!1;++s.at
 s.ad(new A.ahF(s,r,s.x[s.y][r]))},
 $S:0}
 A.ahE.prototype={
@@ -90984,7 +90985,7 @@ s($,"aMs","axY",()=>A.aub(0.5,1.1,100))
 s($,"aLs","and",()=>A.ax5(0.78)/A.ax5(0.9))
 s($,"aPb","azA",()=>new A.a5R(A.E(t.N,A.ak("am<cw?>?(cw?)"))))
 r($,"aOV","uY",()=>{var q=t.N,p=t.z,o=t.s
-return A.an([A.an(["title","Kapitel 1","subtitle","Einfacher Start","color",A.hF(4294934352)],q,p),A.b(["Oma","Opa","Wal","Ufo","Hut","Hose","Hase","Nase"],o),A.an(["title","Kapitel 2","subtitle","Jetzt wird's knifflig","color",A.hF(4282441936)],q,p),A.b(["Sofa","Brot","Lego","Kamel","Palme","Blume","Wolke","Pirat"],o),A.an(["title","Kapitel 3","subtitle","W\xf6rter mit Sch","color",A.hF(4282477025)],q,p),A.b(["Schaf","Schal","Schere","Schwan","Fisch","Tisch","Tasche","Dusche","Frosch","Flasche"],o),A.an(["title","Kapitel 4","subtitle","W\xf6rter mit Au","color",A.hF(4292519200)],q,p),A.b(["Auto","Auge","Baum","Raupe","Frau","Schaum","Maus","Zaun"],o),A.an(["title","Kapitel 5","subtitle","W\xf6rter mit Ei","color",A.hF(4294928820)],q,p),A.b(["Ei","Eis","Eimer","Bein","Drei","Leiter","Zwei","Schwein","Schleife","Leine"],o),A.an(["title","Kapitel 6","subtitle","W\xf6rter mit Ch","color",A.hF(4281519410)],q,p),A.b(["Acht","Buch","Chef","Dach","Drache","Milch","Nacht"],o),A.an(["title","Kapitel 7","subtitle","W\xf6rter mit Ng","color",A.hF(4278239231)],q,p),A.b(["Junge","Junge","Schlange","Zange","Zunge"],o),A.an(["title","Kapitel 8","subtitle","W\xf6rter mit Eu","color",A.hF(4294927175)],q,p),A.b(["Eule","Neun","Euro","Kreuz","Feuer"],o),A.an(["title","Kapitel 9","subtitle","W\xf6rter mit nk","color",A.hF(4286578816)],q,p),A.b(["Bank","Anker","Schrank","Geschenk"],o),A.an(["title","Kapitel 10","subtitle","W\xf6rter mit st","color",A.hF(4281240407)],q,p),A.b(["Stein","Stift","Stelzen","Stempel","Stern"],o)],t.a,t.yp)})
+return A.an([A.an(["title","Kapitel 1","subtitle","Einfacher Start","color",A.hF(4294934352)],q,p),A.b(["Oma","Opa","Wal","Ufo","Hut","Hose","Hase","Nase"],o),A.an(["title","Kapitel 2","subtitle","Jetzt wird's knifflig","color",A.hF(4282441936)],q,p),A.b(["Sofa","Brot","Lego","Kamel","Palme","Blume","Wolke","Pirat"],o),A.an(["title","Kapitel 3","subtitle","W\xf6rter mit Sch","color",A.hF(4282477025)],q,p),A.b(["Schaf","Schal","Schere","Schwan","Fisch","Tisch","Tasche","Dusche","Frosch","Flasche"],o),A.an(["title","Kapitel 4","subtitle","W\xf6rter mit Au","color",A.hF(4292519200)],q,p),A.b(["Auto","Auge","Baum","Raupe","Frau","Schaum","Maus","Zaun"],o),A.an(["title","Kapitel 5","subtitle","W\xf6rter mit Ei","color",A.hF(4294928820)],q,p),A.b(["Ei","Eis","Eimer","Bein","Drei","Leiter","Zwei","Schwein","Schleife","Leine"],o),A.an(["title","Kapitel 6","subtitle","W\xf6rter mit Ch","color",A.hF(4281519410)],q,p),A.b(["Acht","Buch","Koch","Dach","Drache","Milch","Nacht"],o),A.an(["title","Kapitel 7","subtitle","W\xf6rter mit Ng","color",A.hF(4278239231)],q,p),A.b(["Junge","Ring","Schlange","Zange","Zunge"],o),A.an(["title","Kapitel 8","subtitle","W\xf6rter mit Eu","color",A.hF(4294927175)],q,p),A.b(["Eule","Neun","Euro","Kreuz","Feuer"],o),A.an(["title","Kapitel 9","subtitle","W\xf6rter mit nk","color",A.hF(4286578816)],q,p),A.b(["Bank","Anker","Schrank","Geschenk"],o),A.an(["title","Kapitel 10","subtitle","W\xf6rter mit st","color",A.hF(4281240407)],q,p),A.b(["Stein","Stift","Stelzen","Stempel","Stern"],o)],t.a,t.yp)})
 r($,"aMq","aqv",()=>A.an([B.wU,0,B.ei,0,B.d4,0,B.cp,1],A.ak("oW"),t.S))
 s($,"aMZ","ayj",()=>{var q,p=J.oc(256,t.N)
 for(q=0;q<256;++q)p[q]=B.d.nt(B.f.jg(q,16),2,"0")
