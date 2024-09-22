@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "4a267d5d5961ccbbe1e96aee56c33fe3",
-"assets/AssetManifest.bin.json": "c9dcc4c4eb0f7ca9ed493ac321b80894",
-"assets/AssetManifest.json": "de15aea58b5a3b4fbeef57c6826c58eb",
+const RESOURCES = {"assets/AssetManifest.bin": "9b3a621bb477fba8847dc4171c577729",
+"assets/AssetManifest.bin.json": "e6d97e77d0e4fd27146856248e2967da",
+"assets/AssetManifest.json": "6c71cd7f5b78ee05e6bbb00dab3fa44f",
 "assets/assets/images/done.png": "04eeb614446eb4d42786a2afbfb2410c",
 "assets/assets/images/einfach/affe.png": "9d5dd390c3cf8141a88fe957a9cc79f5",
 "assets/assets/images/einfach/apfel.png": "ab25c15a3b9ffe0859f2cfe87bc2fef5",
@@ -34,6 +34,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "4a267d5d5961ccbbe1e96aee56c33fe3
 "assets/assets/images/Kapitel%252010/Stempel.png": "bb2c4b9c30d9f95c15174c0709b20bf6",
 "assets/assets/images/Kapitel%252010/Stern.png": "f1b2fbecf8e3db0ea2fb6846bc44e01d",
 "assets/assets/images/Kapitel%252010/Stift.png": "cba9d950d8506f26b7401dc25f6f131d",
+"assets/assets/images/Kapitel%252011/Besen.png": "d8b0c32f907c554c6204d0d6d4d84685",
+"assets/assets/images/Kapitel%252011/Daumen.png": "5e5f0c4fc2450f00aa495d0cbf759cd0",
+"assets/assets/images/Kapitel%252011/Knochen.png": "d642a6bd967906b5ccda9c59cab39680",
+"assets/assets/images/Kapitel%252011/Knoten.png": "d925e4010caefd2dd08eb1fd40f5b6ba",
+"assets/assets/images/Kapitel%252011/Kuchen.png": "baf4c103e58c8affd0cb69dca8670dd7",
+"assets/assets/images/Kapitel%252011/Ofen.png": "874b50a49b2dc8931dbf2894e761ceaf",
+"assets/assets/images/Kapitel%252011/Regen.png": "7a16fade2e90443b9fdf8362f20657d6",
 "assets/assets/images/Kapitel%25202/Blume.png": "228a2c3633993839670db72c01b8bbf4",
 "assets/assets/images/Kapitel%25202/Brot.png": "727918e1495c72608b06cd24f78ef0be",
 "assets/assets/images/Kapitel%25202/Kamel.png": "ce8d0fbb2eaf928bae48ee3d2a5fa683",
@@ -137,9 +144,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "4a267d5d5961ccbbe1e96aee56c33fe3
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "af6fbe29316b57b36cb14f6f59668c1e",
-"/": "af6fbe29316b57b36cb14f6f59668c1e",
-"main.dart.js": "66b4bf50ae9b9bc5d176af748b767c76",
+"index.html": "3f986886dc876af76418e2604540082a",
+"/": "3f986886dc876af76418e2604540082a",
+"main.dart.js": "e53c59c79c4f3146de6a32b76dedc7b3",
 "manifest.json": "19913adab3f1b95d4aa86584651108f7",
 "version.json": "5bbb4289c32d4ac505c373541db49109"};
 // The application shell files that are downloaded before a service worker can
